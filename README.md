@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Benjamin !</h1>
 <h3 align="center">I'm junior front-end Developer at BeCode.org !</h3>
 
+<h3>About me:</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/benjamin-porsont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin porsont" height="30" width="40" /></a>
