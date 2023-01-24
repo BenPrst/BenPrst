@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin !</h1>
-<h3 align="center">I'm junior front-end Developer at BeCode.org !</h3>
+<h3 align="center">I'm learning Web Development at BeCode.org !</h3>
 
 <h3>About me:</h3>
 
